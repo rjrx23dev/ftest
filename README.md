@@ -1,4 +1,4 @@
-# Ftest app
+# Ftest Flet test app
 
 ## Run the app
 
